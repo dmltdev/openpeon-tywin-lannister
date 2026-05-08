@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "tywin-lannister",
   "display_name": "Tywin Lannister",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sound pack featuring Tywin Lannister, Lord of Casterly Rock and Hand of the King.",
   "author": {
     "name": "dmltdev",
@@ -43,6 +43,7 @@
     "task.error": {
       "sounds": [
         { "file": "sounds/try-harder.mp3", "label": "Try harder" },
+        { "file": "sounds/youre-late.mp3", "label": "You're late" },
         { "file": "sounds/never.mp3", "label": "Never" },
         { "file": "sounds/no.mp3", "label": "No" },
         {
@@ -84,7 +85,8 @@
     },
     "user.spam": {
       "sounds": [
-        { "file": "sounds/i-dont-believe-i-asked-you-a-question.mp3", "label": "I don't believe I asked you a question" }
+        { "file": "sounds/i-dont-believe-i-asked-you-a-question.mp3", "label": "I don't believe I asked you a question" },
+        { "file": "sounds/youre-still-here.mp3", "label": "You're still here" }
       ]
     }
   }
