@@ -1,4 +1,4 @@
-# Tywin Lannister - openPeon Sound Pack
+# Tywin Lannister - OpenPeon Sound Pack
 
 A CESP-compatible sound pack voiced by Tywin Lannister, Lord of Casterly Rock, Hand of the King, and the most powerful man in the Seven Kingdoms.
 
