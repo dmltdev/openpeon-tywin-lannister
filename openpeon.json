@@ -71,6 +71,9 @@
           "label": "I don't believe I asked you a question"
         }
       ]
-    }
+    },
+    "resource.limit": {},
+    "task.acknowledge": {},
+    "user.spam": {}
   }
 }
