@@ -45,7 +45,6 @@
         { "file": "sounds/i-respect-that.mp3", "label": "I respect that" },
         { "file": "sounds/of-course.mp3", "label": "Of course" },
         { "file": "sounds/i-can-and-i-do.mp3", "label": "I can and I do" },
-        { "file": "sounds/alright.mp3", "label": "Alright" },
         { "file": "sounds/ai-well-done-now-do-it-again-faster.mp3", "label": "(AI) Well done. Now do it again, faster" },
         { "file": "sounds/ai-youve-exceeded-my-expectations-dont-let-it-become-a-habit.mp3", "label": "(AI) You've exceeded my expectations. Don't let it become a habit" }
       ]
@@ -54,7 +53,6 @@
       "sounds": [
         { "file": "sounds/try-harder.mp3", "label": "Try harder" },
         { "file": "sounds/youre-late.mp3", "label": "You're late" },
-        { "file": "sounds/never.mp3", "label": "Never" },
         { "file": "sounds/no.mp3", "label": "No" },
         { "file": "sounds/nevermind-that-now.mp3", "label": "Nevermind that now" },
         { "file": "sounds/i-wanted-to-carry-you-into-the-sea.mp3", "label": "I wanted to carry you into the sea" },
@@ -68,7 +66,6 @@
         { "file": "sounds/what-do-you-want.mp3", "label": "What do you want" },
         { "file": "sounds/tell-me-what-you-want.mp3", "label": "Tell me what you want" },
         { "file": "sounds/you-wanted-to-speak-to-me.mp3", "label": "You wanted to speak to me" },
-        { "file": "sounds/i-dont-believe-i-asked-you-a-question.mp3", "label": "I don't believe I asked you a question" },
         { "file": "sounds/ai-make-a-decision-any-decision-but-make-one.mp3", "label": "(AI) Make a decision. Any decision. But make one" },
         { "file": "sounds/ai-speak-plainly-i-have-no-patience-for-riddles.mp3", "label": "(AI) Speak plainly. I have no patience for riddles" },
         { "file": "sounds/ai-your-hesitation-tells-me-more-than-your-answer-ever-could.mp3", "label": "(AI) Your hesitation tells me more than your answer ever could" }
