@@ -6,10 +6,15 @@ A CESP-compatible sound pack voiced by Tywin Lannister, Lord of Casterly Rock, H
 
 | Category | Sounds |
 |---|---|
-| `session.start` | 4 |
-| `task.complete` | 5 |
-| `task.error` | 5 |
-| `input.required` | 4 |
+| `session.start` | 6 |
+| `task.complete` | 7 |
+| `task.error` | 9 |
+| `input.required` | 7 |
+| `resource.limit` | 1 |
+| `task.acknowledge` | 1 |
+| `user.spam` | 4 |
+
+Lines prefixed with `(AI)` are AI-generated. All other lines are sourced from the original soundboard.
 
 ## Install
 
