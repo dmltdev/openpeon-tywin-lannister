@@ -7,9 +7,9 @@ A CESP-compatible sound pack voiced by Tywin Lannister, Lord of Casterly Rock, H
 | Category | Sounds |
 |---|---|
 | `session.start` | 6 |
-| `task.complete` | 7 |
-| `task.error` | 9 |
-| `input.required` | 7 |
+| `task.complete` | 5 |
+| `task.error` | 8 |
+| `input.required` | 6 |
 | `resource.limit` | 1 |
 | `task.acknowledge` | 1 |
 | `user.spam` | 4 |

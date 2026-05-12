@@ -45,8 +45,7 @@
         { "file": "sounds/i-respect-that.mp3", "label": "I respect that" },
         { "file": "sounds/of-course.mp3", "label": "Of course" },
         { "file": "sounds/i-can-and-i-do.mp3", "label": "I can and I do" },
-        { "file": "sounds/ai-well-done-now-do-it-again-faster.mp3", "label": "(AI) Well done. Now do it again, faster" },
-        { "file": "sounds/ai-youve-exceeded-my-expectations-dont-let-it-become-a-habit.mp3", "label": "(AI) You've exceeded my expectations. Don't let it become a habit" }
+        { "file": "sounds/ai-well-done-now-do-it-again-faster.mp3", "label": "(AI) Well done. Now do it again, faster" }
       ]
     },
     "task.error": {
